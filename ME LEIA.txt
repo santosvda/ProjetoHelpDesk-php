@@ -1,0 +1,1 @@
+Antes de executar  apache e aplicação, copie os arquivos(exceto a pasta app_help_desk) para a pasta htdocs C:\xampp\htdocs e a pasta app_help desk copie para C:\xampp
